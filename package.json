@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "predeploy": "ng build --prod && dos2unix dist/test-angular-lazy-images/*",
+    "predeploy": "ng build --prod --bse-href=/test-angular-lazy-images/ && dos2unix dist/test-angular-lazy-images/*",
     "deploy": "gh-pages -d dist/test-angular-lazy-images/"
   },
   "private": true,
