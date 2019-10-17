@@ -2,10 +2,14 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import { SkullComponent } from './skull/skull.component';
+import { LazyLoadImageDirective } from './lazy-load-image.directive';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SkullComponent,
+    LazyLoadImageDirective
   ],
   imports: [
     BrowserModule
