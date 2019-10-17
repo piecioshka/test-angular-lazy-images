@@ -6,7 +6,7 @@
 
 ## Live Coding
 
-[![Video](docs/video.jpg)](https://www.youtube.com/watch?v=v2fncJr-74Q)
+[![Video](docs/video.jpg)](https://www.youtube.com/watch?v=Ojz4GtQPpSg)
 
 ## Show your support
 
