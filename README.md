@@ -8,10 +8,6 @@
 
 [![Video](docs/video.jpg)](https://www.youtube.com/watch?v=Ojz4GtQPpSg)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ## License
 
 [The MIT License](http://piecioshka.mit-license.org) @ 2019
