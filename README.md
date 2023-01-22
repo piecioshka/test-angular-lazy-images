@@ -1,6 +1,6 @@
 # test-angular-lazy-images
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-angular-lazy-images/>
 
