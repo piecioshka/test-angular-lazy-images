@@ -13,6 +13,6 @@ export class SkullComponent implements OnInit {
   ngOnInit() {}
 
   getUrl() {
-    return `http://placeskull.com/1500/500/${this.color}`;
+    return `https://placeskull.com/1500/500/${this.color}`;
   }
 }
